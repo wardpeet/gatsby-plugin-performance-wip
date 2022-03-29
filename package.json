@@ -1,0 +1,17 @@
+{
+  "name": "@wardpeet/gatsby-plugin-performance-wip",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "gatsby": "^4.0.0"
+  },
+  "peerDependencies": {
+    "gastby": "^3.0.0 | ^4.0.0"
+  },
+  "files": [
+    "gatsby-node.js",
+    "gatsby-ssr.js",
+    "index.js"
+  ]
+}
